@@ -14,5 +14,5 @@ class Usuarios extends Model
         'estado',
         'data_nascimento'
 
-    ]
+    ];
 }
